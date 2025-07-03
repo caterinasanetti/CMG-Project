@@ -10,10 +10,6 @@ This study investigates the genomic characteristics and evolutionary history of 
 
 Affiliation: Department of Cellular, Computational and Integrative Biology, Universit`a degli Studi di Trento
 
-## Date
-
-06/04/2025
-
 ## Key Research Areas
 
 *   Oral Microbiome Analysis
